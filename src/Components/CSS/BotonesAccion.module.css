@@ -1,0 +1,23 @@
+.container{
+    display: flex;        
+    background-color: #342A45;
+    height: 300px;    
+}
+.button_3{
+    background:linear-gradient(45deg,#6c35de,#a364ff,#ffc7ff,#cb80ff);
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;    
+    font-size: 32px; 
+    margin-left: 55em;    
+    margin-top: 1em;
+    height: 4em;   
+}
+
+.button_3:hover{
+    background:linear-gradient(25deg,#A364FF,#FFC7FF);
+    color: #342A45;
+    font-weight: 900
+}
